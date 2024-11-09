@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: 6dof_robot_arm
+Description: Description of 6dof_robot_arm
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

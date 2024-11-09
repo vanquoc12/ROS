@@ -1,0 +1,109 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/home/cannot/catkin_ws/build/waypoints/cmake/waypoints-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"waypoints/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 568,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 148,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 358,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 253,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 463,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "waypoints_generate_messages_py::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "waypoints_generate_messages_cpp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "waypoints_generate_messages_lisp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "waypoints_generate_messages_eus::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "waypoints_generate_messages_nodejs::@e743557b8884eec44f6a"
+		}
+	],
+	"id" : "waypoints_generate_messages::@e743557b8884eec44f6a",
+	"name" : "waypoints_generate_messages",
+	"paths" : 
+	{
+		"build" : "waypoints",
+		"source" : "waypoints"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

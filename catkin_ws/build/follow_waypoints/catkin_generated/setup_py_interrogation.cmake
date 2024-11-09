@@ -1,0 +1,7 @@
+set(follow_waypoints_SETUP_PY_SETUP_MODULE "distutils.core")
+set(follow_waypoints_SETUP_PY_VERSION "0.3.0")
+set(follow_waypoints_SETUP_PY_SCRIPTS "nodes/follow_waypoints")
+set(follow_waypoints_SETUP_PY_PACKAGES "")
+set(follow_waypoints_SETUP_PY_PACKAGE_DIRS "")
+set(follow_waypoints_SETUP_PY_MODULES "")
+set(follow_waypoints_SETUP_PY_MODULE_DIRS "")

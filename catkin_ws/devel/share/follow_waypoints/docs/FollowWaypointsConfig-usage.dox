@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="follow_waypoints" pkg="follow_waypoints" type="follow_waypoints">
+  <param name="patrol_mode" type="bool" value="False" />
+</node>
+\endverbatim
+

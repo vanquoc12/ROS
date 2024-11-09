@@ -1,0 +1,6 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~patrol_mode" : \b [bool] Follow the currently given waypoints repeatedly min: False, default: False, max: True
+

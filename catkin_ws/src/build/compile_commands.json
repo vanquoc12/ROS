@@ -1,0 +1,587 @@
+[
+{
+  "directory": "/home/cannot/catkin_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/gtest/googletest",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/gtest/googletest",
+  "command": "/usr/bin/g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/g++  -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -I/usr/include/opencv4 -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g   -O4 -g -DGTEST_HAS_PTHREAD=1 -std=gnu++11 -o CMakeFiles/darknet_ros_object_detection-test.dir/test/test_main.cpp.o -c /home/cannot/catkin_ws/src/darknet_ros/darknet_ros/test/test_main.cpp",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/test/test_main.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/g++  -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -I/usr/include/opencv4 -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g   -O4 -g -DGTEST_HAS_PTHREAD=1 -std=gnu++11 -o CMakeFiles/darknet_ros_object_detection-test.dir/test/ObjectDetection.cpp.o -c /home/cannot/catkin_ws/src/darknet_ros/darknet_ros/test/ObjectDetection.cpp",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/test/ObjectDetection.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g -fPIC   -O4 -g -std=gnu++11 -o CMakeFiles/darknet_ros_lib.dir/src/YoloObjectDetector.cpp.o -c /home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/YoloObjectDetector.cpp",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/YoloObjectDetector.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g -fPIC   -O4 -g -std=gnu++11 -o CMakeFiles/darknet_ros_lib.dir/src/image_interface.cpp.o -c /home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/image_interface.cpp",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/image_interface.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/activation_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/activation_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/activation_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/im2col.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/im2col.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/im2col.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/activations.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/activations.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/activations.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/image.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/image.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/image.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/avgpool_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/avgpool_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/avgpool_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/batchnorm_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/batchnorm_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/batchnorm_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/list.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/list.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/list.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/blas.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/blas.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/blas.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/local_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/local_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/local_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/box.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/box.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/box.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/lstm_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/lstm_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/lstm_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/col2im.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/col2im.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/col2im.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/matrix.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/matrix.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/matrix.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/connected_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/connected_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/connected_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/maxpool_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/maxpool_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/maxpool_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/convolutional_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/convolutional_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/convolutional_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/network.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/network.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/network.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/cost_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/cost_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/cost_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/normalization_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/normalization_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/normalization_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/crnn_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/crnn_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/crnn_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/option_list.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/option_list.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/option_list.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/crop_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/crop_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/crop_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/parser.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/parser.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/parser.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/cuda.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/cuda.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/cuda.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/region_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/region_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/region_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/data.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/data.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/data.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/reorg_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/reorg_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/reorg_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/deconvolutional_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/deconvolutional_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/deconvolutional_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/rnn_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/rnn_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/rnn_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/demo.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/demo.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/demo.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/route_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/route_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/route_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/detection_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/detection_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/detection_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/shortcut_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/shortcut_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/shortcut_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/dropout_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/dropout_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/dropout_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/softmax_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/softmax_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/softmax_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/gemm.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/gemm.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/gemm.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/tree.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/tree.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/tree.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/gru_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/gru_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/gru_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/utils.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/utils.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/utils.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/upsample_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/upsample_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/upsample_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/logistic_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/logistic_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/logistic_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/l2norm_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/l2norm_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/l2norm_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/yolo_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/yolo_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/yolo_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/iseg_layer.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/iseg_layer.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/iseg_layer.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g -fPIC   -O4 -g -std=gnu++11 -o CMakeFiles/darknet_ros_lib.dir/__/darknet/src/image_opencv.cpp.o -c /home/cannot/catkin_ws/src/darknet_ros/darknet/src/image_opencv.cpp",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/src/image_opencv.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/art.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/art.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/art.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/lsd.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/lsd.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/lsd.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/nightmare.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/nightmare.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/nightmare.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/instance-segmenter.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/instance-segmenter.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/instance-segmenter.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/captcha.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/captcha.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/captcha.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/regressor.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/regressor.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/regressor.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/cifar.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/cifar.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/cifar.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/rnn.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/rnn.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/rnn.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/classifier.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/classifier.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/classifier.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/segmenter.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/segmenter.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/segmenter.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/coco.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/coco.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/coco.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/super.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/super.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/super.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/darknet.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/darknet.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/darknet.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/tag.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/tag.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/tag.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/detector.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/detector.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/detector.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/yolo.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/yolo.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/yolo.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/gcc -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_lib_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -Wall -Wno-unused-result -Wno-unknown-pragmas -Wno-unused-variable -Wfatal-errors -fPIC  -g -fPIC   -O4 -g -o CMakeFiles/darknet_ros_lib.dir/__/darknet/examples/go.c.o   -c /home/cannot/catkin_ws/src/darknet_ros/darknet/examples/go.c",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet/examples/go.c"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g   -O4 -g -std=gnu++11 -o CMakeFiles/darknet_ros.dir/src/yolo_object_detector_node.cpp.o -c /home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/yolo_object_detector_node.cpp",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/yolo_object_detector_node.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/darknet_ros/darknet_ros",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_ATOMIC_DYN_LINK -DBOOST_THREAD_DYN_LINK -DDARKNET_FILE_PATH=\\\"/home/cannot/catkin_ws/src/darknet_ros/darknet\\\" -DOPENCV -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"darknet_ros\\\" -Ddarknet_ros_nodelet_EXPORTS -I/home/cannot/catkin_ws/src/darknet_ros/darknet/src -I/home/cannot/catkin_ws/src/darknet_ros/darknet/include -I/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/include -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/opencv4  -g -fPIC   -O4 -g -std=gnu++11 -o CMakeFiles/darknet_ros_nodelet.dir/src/yolo_object_detector_nodelet.cpp.o -c /home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/yolo_object_detector_nodelet.cpp",
+  "file": "/home/cannot/catkin_ws/src/darknet_ros/darknet_ros/src/yolo_object_detector_nodelet.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/joy",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"joy\\\" -I/home/cannot/catkin_ws/src/navigation_Yh/joy/msg/cpp -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=gnu++11 -o CMakeFiles/joy_node.dir/src/joy_node.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/joy/src/joy_node.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/joy/src/joy_node.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navigation\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/mecanum_liftup_sus.dir/src/mecanum_liftup.cpp.o -c /home/cannot/catkin_ws/src/navigation/src/mecanum_liftup.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation/src/mecanum_liftup.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navigation\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/mecanum_pub_odom.dir/src/pub_odom.cpp.o -c /home/cannot/catkin_ws/src/navigation/src/pub_odom.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation/src/pub_odom.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navigation\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/mecanum_sensor.dir/src/mecanum_sensor.cpp.o -c /home/cannot/catkin_ws/src/navigation/src/mecanum_sensor.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation/src/mecanum_sensor.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navigation\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/mecanum_twist.dir/src/mecanum_twist.cpp.o -c /home/cannot/catkin_ws/src/navigation/src/mecanum_twist.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation/src/mecanum_twist.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navigation\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/mecanum_joycon.dir/src/joycon.cpp.o -c /home/cannot/catkin_ws/src/navigation/src/joycon.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation/src/joycon.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"navigation\\\" -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/mecanum_odom.dir/src/mecanum_odom.cpp.o -c /home/cannot/catkin_ws/src/navigation/src/mecanum_odom.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation/src/mecanum_odom.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/msg_convert.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/msg_convert.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/msg_convert.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/server_params.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_params.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_params.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/server_map_holder.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_map_holder.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_map_holder.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/server_work_data.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_work_data.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_work_data.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/server_worker_base.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_worker_base.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_worker_base.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/server_workers.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_workers.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/server_workers.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/slamware_ros_sdk_server_node.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/slamware_ros_sdk_server_node.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/slamware_ros_sdk_server_node.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/home/cannot/catkin_ws/src/slamware_sdk/include   -fPIC -std=gnu++11 -g   -Wno-deprecated-declarations -o CMakeFiles/slamware_ros_sdk_server_node.dir/src/server/slamware_ros_sdk_server.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/slamware_ros_sdk_server.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/server/slamware_ros_sdk_server.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/slamware_ros_sdk",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"slamware_ros_sdk\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/slamware_ros_sdk/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp   -fPIC -std=gnu++11 -g   -o CMakeFiles/slamware_ros_sdk.dir/src/client/slamware_ros_sdk_client.cpp.o -c /home/cannot/catkin_ws/src/slamware_ros_sdk/src/client/slamware_ros_sdk_client.cpp",
+  "file": "/home/cannot/catkin_ws/src/slamware_ros_sdk/src/client/slamware_ros_sdk_client.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g   -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_scan_shadows_filter.dir/test/test_scan_shadows_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/test/test_scan_shadows_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/test/test_scan_shadows_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g   -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_speckle_filter.dir/test/test_speckle_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/test/test_speckle_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/test/test_speckle_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/scan_to_scan_filter_chain.dir/src/scan_to_scan_filter_chain.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/scan_to_scan_filter_chain.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/scan_to_scan_filter_chain.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/generic_laser_filter_node.dir/src/generic_laser_filter_node.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/generic_laser_filter_node.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/generic_laser_filter_node.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBUILDING_NODELET=1 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_filters_nodelets_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_filters_nodelets.dir/src/scan_to_cloud_filter_chain.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/scan_to_cloud_filter_chain.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/scan_to_cloud_filter_chain.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBUILDING_NODELET=1 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_filters_nodelets_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_filters_nodelets.dir/src/scan_to_scan_filter_chain.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/scan_to_scan_filter_chain.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/scan_to_scan_filter_chain.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dpointcloud_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/pointcloud_filters.dir/src/pointcloud_filters.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/pointcloud_filters.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/pointcloud_filters.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g   -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_scan_filter_chain.dir/test/test_scan_filter_chain.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/test/test_scan_filter_chain.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/test/test_scan_filter_chain.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g   -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/test_shadow_detector.dir/test/test_shadow_detector.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/test/test_shadow_detector.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/test/test_shadow_detector.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/laser_scan_filters.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/laser_scan_filters.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/laser_scan_filters.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/median_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/median_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/median_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/array_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/array_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/array_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/box_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/box_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/box_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/polygon_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/polygon_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/polygon_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/scan_shadow_detector.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/scan_shadow_detector.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/scan_shadow_detector.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/scan_shadows_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/scan_shadows_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/scan_shadows_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/speckle_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/speckle_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/speckle_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/intensity_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/intensity_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/intensity_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -Dlaser_scan_filters_EXPORTS -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g -fPIC   -o CMakeFiles/laser_scan_filters.dir/src/sector_filter.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/sector_filter.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/sector_filter.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/laser_filters",
+  "command": "/usr/bin/g++  -DBOOST_ALL_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"laser_filters\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/laser_filters/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/scan_to_cloud_filter_chain.dir/src/scan_to_cloud_filter_chain.cpp.o -c /home/cannot/catkin_ws/src/laser_filters/src/scan_to_cloud_filter_chain.cpp",
+  "file": "/home/cannot/catkin_ws/src/laser_filters/src/scan_to_cloud_filter_chain.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/yahboomcar_bringup",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"yahboomcar_bringup\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/navigation_Yh/yahboomcar_bringup/include/yahboomcar_bringup -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/base_node.dir/src/base_node.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/yahboomcar_bringup/src/base_node.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/yahboomcar_bringup/src/base_node.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/yahboomcar_bringup",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"yahboomcar_bringup\\\" -I/home/cannot/catkin_ws/src/build/devel/include -I/home/cannot/catkin_ws/src/navigation_Yh/yahboomcar_bringup/include/yahboomcar_bringup -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/base_node.dir/src/base.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/yahboomcar_bringup/src/base.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/yahboomcar_bringup/src/base.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/arm_moveit_demo",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_demo\\\" -I/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/include/arm_moveit_demo -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -o CMakeFiles/06_multi_track_motion.dir/src/06_multi_track_motion.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/06_multi_track_motion.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/06_multi_track_motion.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/arm_moveit_demo",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_demo\\\" -I/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/include/arm_moveit_demo -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -o CMakeFiles/05_attached_object.dir/src/05_attached_object.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/05_attached_object.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/05_attached_object.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/arm_moveit_demo",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_demo\\\" -I/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/include/arm_moveit_demo -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -o CMakeFiles/04_cartesian.dir/src/04_cartesian.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/04_cartesian.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/04_cartesian.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/arm_moveit_demo",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_demo\\\" -I/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/include/arm_moveit_demo -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -o CMakeFiles/03_set_joint_plan.dir/src/03_set_joint_plan.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/03_set_joint_plan.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/03_set_joint_plan.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/arm_moveit_demo",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_demo\\\" -I/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/include/arm_moveit_demo -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -o CMakeFiles/01_random_move.dir/src/01_random_move.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/01_random_move.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/01_random_move.cpp"
+},
+{
+  "directory": "/home/cannot/catkin_ws/src/build/navigation_Yh/arm_moveit_demo",
+  "command": "/usr/bin/g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_moveit_demo\\\" -I/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/include/arm_moveit_demo -I/home/cannot/catkin_ws/src/build/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv4 -I/usr/include/eigen3 -I/usr/include/bullet -I/usr/include/OGRE  -g   -o CMakeFiles/02_set_pose_plan.dir/src/02_set_pose_plan.cpp.o -c /home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/02_set_pose_plan.cpp",
+  "file": "/home/cannot/catkin_ws/src/navigation_Yh/arm_moveit_demo/src/02_set_pose_plan.cpp"
+}
+]

@@ -1,0 +1,8 @@
+prefix=/home/cannot/catkin_ws/install
+
+Name: follow_waypoints
+Description: Description of follow_waypoints
+Version: 0.3.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lfollow_waypoints
+Requires: actionlib geometry_msgs move_base_msgs rospy std_msgs

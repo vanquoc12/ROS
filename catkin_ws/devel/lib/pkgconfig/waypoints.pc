@@ -1,0 +1,8 @@
+prefix=/home/cannot/catkin_ws/devel
+
+Name: waypoints
+Description: Description of waypoints
+Version: 0.0.0
+Cflags: -I/home/cannot/catkin_ws/devel/include
+Libs: -L${prefix}/lib -lwaypoints
+Requires: roscpp rviz message_runtime

@@ -1,0 +1,1069 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"build/slamware_ros_sdk/cmake/slamware_ros_sdk-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"slamware_ros_sdk/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2500,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2709,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2706,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2703,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2561,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2587,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2551,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2543,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2573,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2609,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2539,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2557,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2547,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2535,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2589,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2611,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2593,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2509,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2511,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2567,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2553,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2559,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2577,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2549,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2525,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2513,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2575,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2585,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2601,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2519,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2523,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2515,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2517,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2527,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2597,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2545,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2555,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2531,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2537,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2533,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2563,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2541,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2569,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2529,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2595,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2613,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2565,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2521,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2507,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2579,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2581,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2583,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2571,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2591,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2603,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2605,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2599,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2607,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2615,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_py::@e92b419c672c2296d441"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "sensor_msgs_generate_messages_py::@9f568450e6e9336c6f3a"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "nav_msgs_generate_messages_py::@c4e44054ded3c2fac69f"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ActionDirection::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_LocalizationOptions::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorInfo::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MapKind::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveByThetaRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveLineRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RectFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorValueData::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SensorType::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Line2DFlt32Array::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RecoverLocalizationRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 19,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveLinesRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SetMapUpdateRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 21,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt8::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 22,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt16::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 23,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveOptionFlag::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorInfoArray::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 25,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorValueDataArray::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveToLocationsRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ImpactType::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 28,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 30,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveToRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 31,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalLocalizationMovement::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_AddLineRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt16::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 34,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt64::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt64::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt8::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 37,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalFlt64::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_GoHomeRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 39,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ArtifactUsage::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 40,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorValue::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Vec2DFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RectInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 43,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Line2DFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RobotBasicState::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 45,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RobotDeviceInfo::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveOptions::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Vec2DInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 48,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SetMapLocalizationRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 49,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SyncGetStcm::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SyncMapRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 51,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 52,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalBool::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 53,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RotateToRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 54,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RotateRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 55,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_LocalizationMovement::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveByDirectionRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 57,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ClearMapRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 58,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_AddLinesRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 59,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RemoveLineRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 60,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_CancelActionRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 61,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ClearLinesRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SyncSetStcm::@dee8139a23e5322b841b"
+		}
+	],
+	"id" : "slamware_ros_sdk_generate_messages_py::@dee8139a23e5322b841b",
+	"name" : "slamware_ros_sdk_generate_messages_py",
+	"paths" : 
+	{
+		"build" : "slamware_ros_sdk",
+		"source" : "slamware_ros_sdk"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/slamware_ros_sdk/CMakeFiles/slamware_ros_sdk_generate_messages_py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/slamware_ros_sdk/CMakeFiles/slamware_ros_sdk_generate_messages_py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalBool.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalInt8.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalInt16.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalInt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalInt64.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalUInt8.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalUInt16.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalUInt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalUInt64.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalFlt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalFlt64.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_Vec2DInt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_Vec2DFlt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_Line2DFlt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_Line2DFlt32Array.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RectInt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RectFlt32.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RobotDeviceInfo.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MapKind.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_ArtifactUsage.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_SensorType.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_ImpactType.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_BasicSensorInfo.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_BasicSensorInfoArray.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_BasicSensorValue.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_BasicSensorValueData.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_BasicSensorValueDataArray.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_ActionDirection.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RobotBasicState.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_SyncMapRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveOptionFlag.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveOptions.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveByDirectionRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveByThetaRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveToRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveToLocationsRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RotateToRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RotateRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_LocalizationMovement.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_OptionalLocalizationMovement.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_LocalizationOptions.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RecoverLocalizationRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_ClearMapRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_SetMapUpdateRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_SetMapLocalizationRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_GoHomeRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_CancelActionRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_AddLineRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_AddLinesRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_RemoveLineRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_ClearLinesRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveLineRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/_MoveLinesRequest.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/srv/_SyncGetStcm.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/srv/_SyncSetStcm.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/msg/__init__.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/lib/python3/dist-packages/slamware_ros_sdk/srv/__init__.py.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

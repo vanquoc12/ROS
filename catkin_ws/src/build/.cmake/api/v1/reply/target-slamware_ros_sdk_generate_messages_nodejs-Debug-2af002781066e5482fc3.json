@@ -1,0 +1,1055 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"build/slamware_ros_sdk/cmake/slamware_ros_sdk-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"slamware_ros_sdk/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2035,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2691,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2688,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2685,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2096,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2122,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2086,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2078,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2108,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2144,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2074,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2092,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2082,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2070,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2124,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2146,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2128,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2044,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2046,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2102,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2088,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2094,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2112,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2084,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2060,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2048,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2110,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2120,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2136,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2054,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2058,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2050,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2052,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2062,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2132,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2080,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2090,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2066,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2072,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2068,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2098,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2076,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2104,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2064,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2130,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2148,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2100,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2056,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2042,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2114,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2116,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2118,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2106,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2126,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2138,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2140,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2134,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2142,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2150,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "std_msgs_generate_messages_nodejs::@e92b419c672c2296d441"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "sensor_msgs_generate_messages_nodejs::@9f568450e6e9336c6f3a"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "nav_msgs_generate_messages_nodejs::@c4e44054ded3c2fac69f"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ActionDirection::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_LocalizationOptions::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorInfo::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MapKind::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveByThetaRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveLineRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RectFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorValueData::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SensorType::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 17,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Line2DFlt32Array::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 18,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RecoverLocalizationRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 19,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveLinesRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SetMapUpdateRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 21,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt8::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 22,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt16::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 23,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveOptionFlag::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 24,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorInfoArray::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 25,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorValueDataArray::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 26,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveToLocationsRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 27,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ImpactType::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 28,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 29,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 30,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveToRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 31,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalLocalizationMovement::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 32,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_AddLineRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 33,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt16::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 34,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt64::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 35,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalInt64::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 36,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt8::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 37,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalFlt64::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 38,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_GoHomeRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 39,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ArtifactUsage::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 40,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_BasicSensorValue::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 41,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Vec2DFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 42,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RectInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 43,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Line2DFlt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 44,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RobotBasicState::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 45,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RobotDeviceInfo::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 46,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveOptions::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 47,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_Vec2DInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 48,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SetMapLocalizationRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 49,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SyncGetStcm::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 50,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SyncMapRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 51,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalUInt32::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 52,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_OptionalBool::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 53,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RotateToRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 54,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RotateRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 55,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_LocalizationMovement::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_MoveByDirectionRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 57,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ClearMapRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 58,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_AddLinesRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 59,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_RemoveLineRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 60,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_CancelActionRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 61,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_ClearLinesRequest::@dee8139a23e5322b841b"
+		},
+		{
+			"backtrace" : 62,
+			"id" : "_slamware_ros_sdk_generate_messages_check_deps_SyncSetStcm::@dee8139a23e5322b841b"
+		}
+	],
+	"id" : "slamware_ros_sdk_generate_messages_nodejs::@dee8139a23e5322b841b",
+	"name" : "slamware_ros_sdk_generate_messages_nodejs",
+	"paths" : 
+	{
+		"build" : "slamware_ros_sdk",
+		"source" : "slamware_ros_sdk"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "build/slamware_ros_sdk/CMakeFiles/slamware_ros_sdk_generate_messages_nodejs",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/slamware_ros_sdk/CMakeFiles/slamware_ros_sdk_generate_messages_nodejs.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalBool.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalInt8.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalInt16.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalInt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalInt64.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalUInt8.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalUInt16.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalUInt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalUInt64.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalFlt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalFlt64.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/Vec2DInt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/Vec2DFlt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/Line2DFlt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/Line2DFlt32Array.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RectInt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RectFlt32.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RobotDeviceInfo.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MapKind.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/ArtifactUsage.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/SensorType.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/ImpactType.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/BasicSensorInfo.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/BasicSensorInfoArray.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/BasicSensorValue.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/BasicSensorValueData.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/BasicSensorValueDataArray.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/ActionDirection.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RobotBasicState.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/SyncMapRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveOptionFlag.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveOptions.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveByDirectionRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveByThetaRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveToRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveToLocationsRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RotateToRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RotateRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/LocalizationMovement.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/OptionalLocalizationMovement.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/LocalizationOptions.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RecoverLocalizationRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/ClearMapRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/SetMapUpdateRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/SetMapLocalizationRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/GoHomeRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/CancelActionRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/AddLineRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/AddLinesRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/RemoveLineRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/ClearLinesRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveLineRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/msg/MoveLinesRequest.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/srv/SyncGetStcm.js.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/devel/share/gennodejs/ros/slamware_ros_sdk/srv/SyncSetStcm.js.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

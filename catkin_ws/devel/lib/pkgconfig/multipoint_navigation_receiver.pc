@@ -1,0 +1,8 @@
+prefix=/home/cannot/catkin_ws/devel
+
+Name: multipoint_navigation_receiver
+Description: Description of multipoint_navigation_receiver
+Version: 0.0.1
+Cflags: -I/home/cannot/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,294 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include",
+			"generate_messages",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"/home/cannot/catkin_ws/build/waypoints/cmake/waypoints-genmsg.cmake",
+			"/opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake",
+			"waypoints/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 307,
+				"parent" : 1
+			},
+			{
+				"file" : 0,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 565,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 681,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 678,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 574,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 572,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 580,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 584,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 578,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 582,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 586,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 590,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 588,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 576,
+				"parent" : 3
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "geometry_msgs_generate_messages_py::@545046a4de3168e1e254"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "std_msgs_generate_messages_py::@545046a4de3168e1e254"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "_waypoints_generate_messages_check_deps_waypoint_group::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "_waypoints_generate_messages_check_deps_waypoint_msg::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "_waypoints_generate_messages_check_deps_Load_Wp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "_waypoints_generate_messages_check_deps_Stop_Wp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 11,
+			"id" : "_waypoints_generate_messages_check_deps_Save_Wp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "_waypoints_generate_messages_check_deps_Run_Wp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "_waypoints_generate_messages_check_deps_Delete_Wp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "_waypoints_generate_messages_check_deps_Wp_2_Group::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 15,
+			"id" : "_waypoints_generate_messages_check_deps_Groups_Wp::@e743557b8884eec44f6a"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "_waypoints_generate_messages_check_deps_waypoint_array::@e743557b8884eec44f6a"
+		}
+	],
+	"id" : "waypoints_generate_messages_py::@e743557b8884eec44f6a",
+	"name" : "waypoints_generate_messages_py",
+	"paths" : 
+	{
+		"build" : "waypoints",
+		"source" : "waypoints"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/build/waypoints/CMakeFiles/waypoints_generate_messages_py",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/build/waypoints/CMakeFiles/waypoints_generate_messages_py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/msg/_waypoint_msg.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/msg/_waypoint_group.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/msg/_waypoint_array.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/_Save_Wp.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/_Load_Wp.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/_Run_Wp.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/_Stop_Wp.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/_Delete_Wp.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/_Groups_Wp.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/_Wp_2_Group.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/msg/__init__.py.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/cannot/catkin_ws/devel/lib/python3/dist-packages/waypoints/srv/__init__.py.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
