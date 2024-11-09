@@ -1,0 +1,16 @@
+<launch>
+  <arg name="map_file" default="$(find nox)/cfg/amcl_params.yaml"/>
+  <arg name="amcl_config_file" default="$(find nox)/cfg/amcl_params.yaml"/>
+
+  <!-- Map server -->
+  <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
+
+  <!-- AMCL -->
+  <node pkg="amcl" type="amcl" name="amcl" output="screen">
+    <rosparam file="$(arg amcl_config_file)" command="load" />
+    <!-- Thêm các tham số khác nếu cần -->
+  </node>
+
+  <!-- Các node khác cần thiết cho hệ thống -->
+</launch>
+

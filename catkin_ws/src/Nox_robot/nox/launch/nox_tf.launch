@@ -1,0 +1,31 @@
+<launch>
+	<arg name="odom_kv" default="1.0"/>
+	<arg name="odom_kth" default="1.0"/>
+	<arg name="odom_vx_positive" default="2.5"/>
+	<arg name="odom_vx_negative" default="2.5"/>
+	<arg name="odom_vy_positive" default="2.5"/>
+	<arg name="odom_vy_negative" default="2.5"/>
+	<arg name="odom_vth_positive" default="1.0"/>
+	<arg name="odom_vth_negative" default="1.0"/>
+		
+	<node name="nox_controller" pkg="nox" type="nox_controller">
+		<param name="publish_tf" value="true" />
+    		<param name="publish_rate" value="10.0" />
+    		<param name="linear_scale_positive" value="1.025" />
+    		<param name="linear_scale_negative" value="1.025" />
+    		<param name="angular_scale_positive" value="1.078" />
+    		<param name="angular_scale_negative" value="1.078" />
+		<param name="angular_scale_accel" value="0.0" />
+		<param name="odom_kv" value="$(arg odom_kv)"/>
+		<param name="odom_kth" value="$(arg odom_kth)"/>
+		<param name="odom_vx_positive" value="$(arg odom_vx_positive)"/>
+		<param name="odom_vx_negative" value="$(arg odom_vx_negative)"/>
+		<param name="odom_vy_positive" value="$(arg odom_vy_positive)"/>
+		<param name="odom_vy_negative" value="$(arg odom_vy_negative)"/>
+		<param name="odom_vth_positive" value="$(arg odom_vth_positive)"/>
+		<param name="odom_vth_negative" value="$(arg odom_vth_negative)"/>
+	</node>	
+		
+	<node name="map2odom" pkg="tf" type="static_transform_publisher" args="0.14 0 0 0 0 0 1 map odom 50"/>
+  	<node name="base2laser" pkg="tf" type="static_transform_publisher" args="0.14 0 0 0 0 0 1 base_link laser 50"/>
+</launch>

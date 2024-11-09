@@ -1,0 +1,5 @@
+<launch>
+	</node>
+	<node name="send_mark" pkg="catkin_ws" type="send_mark" output="screen"/>
+	</node>
+</launch>
